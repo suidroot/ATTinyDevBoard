@@ -1,0 +1,23 @@
+Source,/Users/locutus/ownCloud/Electronics/Electronics Project/ATTinyDevBoard/ATTiny Dev Board.sch
+Kicad Rev,Eeschema 4.0.7
+Generated Date,Friday, September 15, 2017 'PMt' 02:04:09 PM
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,Library,Library Ref
+P3,DIL8,ATTiny Dev Board-cache,DIL8
+R2,220,device,R
+R1,10K,device,R
+C1,100nF,device,C
+C2,100nF,device,C
+P4,CONN_01X04,ATTiny Dev Board-cache,CONN_01X04
+P2,CONN_01X04,ATTiny Dev Board-cache,CONN_01X04
+P5,CONN_02X03,ATTiny Dev Board-cache,CONN_02X03
+D1,LED,device,LED
+SW1,SW_Push_Dual,switches,SW_Push_Dual
+SW2,SW_SPDT,switches,SW_SPDT
+U1,LM7805CT,ATTiny Dev Board-cache,LM7805CT
+P1,MOLEX_CONN_01X02,Ben Parts,MOLEX_CONN_01X02
