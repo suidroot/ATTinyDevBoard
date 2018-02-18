@@ -19,3 +19,4 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+ATTiny Dev Board.kicad_pcb.old.kicad_pcb
